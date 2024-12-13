@@ -87,7 +87,7 @@ body,
 
 /* Fonts */
 ::-webkit-input-placeholder, * {
-    font-family: "Outfit", serif !important;
+/*     font-family: "Outfit", serif !important; */
 }
 
 
