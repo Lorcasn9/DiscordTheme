@@ -88,10 +88,7 @@
     background-color: unset;
 }
 .wrapper_b75bb9 {
-    background-color: var(--color-1);
-}
-.wrapper_b75bb9 {
-    background-color: var(--color-1);
+/*     background-color: var(--color-1); */
 }
 
 
@@ -114,7 +111,7 @@
     height: 2px;
     border: none;
     border-radius: var(--border-radius-large);
-/*     background-color: var(--color-6); */
+    background-color: var(--color-6);
 }
 .divider_d5deea.isUnread_c2654d {
     background-color: #EF4B4B;
