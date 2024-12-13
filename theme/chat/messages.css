@@ -111,7 +111,7 @@
     height: 2px;
     border: none;
     border-radius: var(--border-radius-large);
-    background-color: var(--color-6);
+/*     background-color: var(--color-6); */
 }
 .divider_d5deea.isUnread_c2654d {
     background-color: #EF4B4B;
@@ -121,7 +121,7 @@
     padding: 8px 12px;
     border: 2px solid var(--color-6);
     border-radius: var(--border-radius-large);
-/*     background: var(--color-2); */
+    background: var(--color-2);
 }
 
 .isUnread_c2654d .content_c2654d {
