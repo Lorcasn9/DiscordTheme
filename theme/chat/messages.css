@@ -121,7 +121,7 @@
     padding: 8px 12px;
     border: 2px solid var(--color-6);
     border-radius: var(--border-radius-large);
-    background: var(--color-2);
+/*     background: var(--color-2); */
 }
 
 .isUnread_c2654d .content_c2654d {
