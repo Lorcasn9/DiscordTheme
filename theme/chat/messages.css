@@ -114,7 +114,7 @@
     height: 2px;
     border: none;
     border-radius: var(--border-radius-large);
-    background-color: var(--color-6);
+/*     background-color: var(--color-6); */
 }
 .divider_d5deea.isUnread_c2654d {
     background-color: #EF4B4B;
